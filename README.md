@@ -11,8 +11,3 @@ python sudoku.py main
 
 To adjust the diffculty level of the generated Sudoku puzzle, browse to suodku.py and change the variable 'level' to the desired difficulty levels, which include ‘Easy’ ‘Medium’ ‘Hard’ and ‘Insane’.
 
-
-****B.Y.O.T (bring your own tests)****
-
-See more at www.callmejoe.net
-Made by Joe Carlson 2015
